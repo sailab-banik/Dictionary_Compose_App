@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/sailab-banik/Dictionary_Compose_App/assets/85576283/46d15ff9-ef05-4ae2-89d5-69537fa1c13a" alt="App Screenshot" width="400" height="800">
+  <img src="https://github.com/sailab-banik/Dictionary_Compose_App/assets/85576283/d2ad0268-0554-414e-bec3-8596971ffc47" alt="App Screenshot" width="400" height="800">
 </p>
 
 ## About
